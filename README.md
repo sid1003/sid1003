@@ -92,31 +92,6 @@ Built **27+ React.js projects** showcasing reusable UI components like:
 
 ---
 
-## 💼 Experience  
-
-- **Software Engineer @ CentraLogic (2025 - Present)**  
-  - Built workflow automation system using React, Zustand, React Query.  
-  - Reduced API overhead by **40%** with optimized caching & data fetching.  
-  - Developed responsive shimmer loading UI to improve user experience.  
-
-- **Software Developer Intern @ Bright Systems (2024 - 2025)**  
-  - Created reusable UI components and infinite scroll in React.  
-  - Built filter-matching algorithm in Nest.js for smarter patient-psychologist pairing.  
-
-- **Backend Developer Intern @ Homefirst (2024)**  
-  - Built Kotlin Spring Boot backend for admin portal.  
-  - Improved API response times by **40%** with Redis caching + indexing.  
-  - Increased test coverage from 20% → 70%.  
-
----
-
-## 🎯 Achievements  
-- Solved **300+ DSA problems** on Leetcode, GeeksforGeeks, Coding Ninjas.  
-- Organized a **national hackathon** with 50+ teams.  
-- Vice-Chairperson of **CSI-SPIT**, guiding 50+ members in tech initiatives.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid1003&show_icons=true&theme=tokyonight)  
