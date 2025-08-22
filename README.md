@@ -3,12 +3,7 @@
 🚀 Passionate **Full Stack Developer** with experience in building scalable, secure, and performant applications.  
 I love working across the stack—from designing smooth, responsive UIs to optimizing backend APIs for speed and reliability.  
 
----
-
-## 📫 Connect with Me  
-- 📧 [sidmeshram1003@gmail.com](mailto:sidmeshram1003@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-meshram-a6a077194/)  
-- 🧑‍💻 [CodeSandbox](https://codesandbox.io/u/sidmeshram1003)  
+Here's my [resume](https://drive.google.com/file/d/1r_QkHXTOuvM0QbOUwCerApuOKn0YhjEK/view?usp=sharing) for a quick reference of my previous work.
 
 ---
 
@@ -101,6 +96,14 @@ Built **27+ React.js projects** showcasing reusable UI components like:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sid1003&theme=tokyonight)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=sid1003&color=blueviolet)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 [sidmeshram1003@gmail.com](mailto:sidmeshram1003@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-meshram-a6a077194/)  
+- 🧑‍💻 [CodeSandbox](https://codesandbox.io/u/sidmeshram1003)
+- 📄 [Resume](https://drive.google.com/file/d/1r_QkHXTOuvM0QbOUwCerApuOKn0YhjEK/view?usp=sharing)  
 
 ---
 
