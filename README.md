@@ -5,6 +5,18 @@ I love working across the stack—from designing smooth, responsive UIs to optim
 
 ---
 
+## 📫 Connect with Me  
+- 📧 Email: [sidmeshram1003@gmail.com](mailto:sidmeshram1003@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-meshram-a6a077194/)  
+- 💻 [GitHub](https://github.com/sid1003)  
+- 🧑‍💻 [CodeSandbox](https://codesandbox.io/u/sidmeshram1003)  
+
+---
+
+✨ *Always exploring new technologies and building things that make an impact.* 
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
@@ -122,12 +134,4 @@ Built **27+ React.js projects** showcasing reusable UI components like:
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: [sidmeshram1003@gmail.com](mailto:sidmeshram1003@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-meshram-a6a077194/)  
-- 💻 [GitHub](https://github.com/sid1003)  
-- 🧑‍💻 [CodeSandbox](https://codesandbox.io/u/sidmeshram1003)  
-
----
-
-✨ *Always exploring new technologies and building things that make an impact.*  
+ 
