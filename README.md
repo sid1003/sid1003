@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddhant Meshram  
+# 👋 Hi, I'm Siddhant 
 
 🚀 Passionate **Full Stack Developer** with experience in building scalable, secure, and performant applications.  
 I love working across the stack—from designing smooth, responsive UIs to optimizing backend APIs for speed and reliability.  
